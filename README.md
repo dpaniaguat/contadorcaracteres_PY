@@ -1,1 +1,1 @@
-# contadorcaracteres_PY
+# Metodo para contar caracteres. P31
